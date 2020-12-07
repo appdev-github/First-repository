@@ -1,5 +1,3 @@
 # First-repository
  
-# This is first change in project 
-# This is first change in project 
-# This is first change in project 
+# This is second change in project 
